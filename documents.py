@@ -1,3 +1,5 @@
+words = {'has':['had', 'has', 'will have']}
+
 class Message:
     """Message class."""
 
@@ -102,3 +104,4 @@ def document_planner(k, c, u, d):
 
     """
     pass
+
